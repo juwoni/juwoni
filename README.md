@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![juwoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![juwoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=juwoni&count_private=true)
 
 <!--
 **juwoni/juwoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
